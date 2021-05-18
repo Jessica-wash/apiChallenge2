@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+    background-image: url('../assets/galaxyBackground.jpeg');
+    height: 100%;background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: blanchedalmond;
+    text-align: center;
+    
+}
+
+body, html {
+    height: 100%;
+}
+
+h1{
+    font-size: 35pt;
+    margin-top: 10px;
+}
+
+form{
+    border: solid black 2px;
+    border-radius: 50%;
+    background-color: midnightblue;
+    margin: 15px;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+section{
+    color: blanchedalmond;
+    border: solid blanchedalmond 2px;
+    border-radius: 10% 10% 10% 10%;
+    background-color: rgba(30, 143, 255, 0.557);
+    padding: 20px 10px 10px 10px;
+    margin: 15px;
+}
+
+section img{
+    width: 80vw;
+}
